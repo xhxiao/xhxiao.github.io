@@ -6,10 +6,10 @@ I'm currently an associate professor in the School of Electronics and Informatio
 * My current research focuses include: 1) the application of machine learning in agricultural information; 2) Smart City.
 
 ### Publications
->*Music Classification based on Hidden Markov Models*
-> **Xiaohong Xiao**, Yi Zhang, Dongshen Liu, Chunjuan Ouyang
-> Computer Engineering and Applications
-
-> *PCA/ICA based marine plankton recognition*
-> **Xiaohong Xiao**, Dongshen Liu, Chunjuan Ouyang
-> Journal of Jinggangshan University (Natural Science Edition)
+>*Music Classification based on Hidden Markov Models*  
+> **Xiaohong Xiao**, Yi Zhang, Dongshen Liu, Chunjuan Ouyang  
+> Computer Engineering and Applications  
+  
+> *PCA/ICA based marine plankton recognition*  
+> **Xiaohong Xiao**, Dongshen Liu, Chunjuan Ouyang  
+> Journal of Jinggangshan University (Natural Science Edition)  
